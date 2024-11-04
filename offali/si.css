@@ -1,0 +1,11 @@
+.overlay-box {
+  background-color: #fff;
+  width: 550px;
+  height: 250px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  border: 1px solid #000;
+}
